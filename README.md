@@ -9,7 +9,7 @@ Powered by **closed-loop BLDC motors** communicating over **CAN-FD**, the leg de
 
 Watch the project in action:
 
-[▶️ Click here to view the demo](video/demo.mp4)
+[▶️ Click here to view the demo](demo.mov)
 ---
 
 ## ⚙️ Technical Overview
